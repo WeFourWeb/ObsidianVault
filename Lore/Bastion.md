@@ -64,3 +64,5 @@ Over time, the ideals of the Bastion servants began to distort, and increasingly
 ![[Pasted image 20240220061311.png]]
 
 ![[Pasted image 20240220061543.png]]
+
+![[Pasted image 20240220062121.png]]
