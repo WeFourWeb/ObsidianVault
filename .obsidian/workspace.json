@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Bastion.md",
+                "file": "Lore/Factions/Бастион.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Bastion.md",
+                "file": "Lore/Factions/Бастион.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Bastion.md",
+                "file": "Lore/Factions/Бастион.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Bastion.md"
+                "file": "Lore/Factions/Бастион.md"
               }
             }
           }
@@ -148,14 +148,15 @@
   },
   "active": "049d4cf397875c43",
   "lastOpenFiles": [
-    "images/Pasted image 20240220062121.png",
-    "Lore/Player's hub gameplay.md",
-    "images/Pasted image 20240220061645.png",
-    "Lore/Bastion.md",
-    "images/Pasted image 20240220061543.png",
     "Lore/Factions.md",
-    "Lore/Location gameplay.md",
     "Lore/Basic story.md",
+    "Lore/Factions/Бастион.md",
+    "Lore/Factions",
+    "Lore/Player's hub gameplay.md",
+    "images/Pasted image 20240220062121.png",
+    "images/Pasted image 20240220061645.png",
+    "images/Pasted image 20240220061543.png",
+    "Lore/Location gameplay.md",
     "images/Pasted image 20240220061210.png",
     "images/Pasted image 20240220061311.png",
     "images",

@@ -4,6 +4,7 @@ tags:
   - factions
 ---
 # Review
+
 All present factions are connected to one of deadly sins in a matter of their progression implementation.
 
 | Faction                | Descriprion        | Deadly sin |
@@ -15,38 +16,33 @@ All present factions are connected to one of deadly sins in a matter of their pr
 | [[#Technomagical Alliance]] | Grace of Zeal      | Sloth           |
 | [[#Church of Heptagon]]     | Grace of Love      | Envy           |
 | [[#Inventor]]               | Grace of Modesty   | Pride           |
-# [[Bastion]] 
+# [[Бастион]] 
+
 **Sentinels of Bastion** live on the platform of the Heptagon, built in the form of a **Medieval Citadel**. They keep order in the city and help resolve the conflicts of the Lowlanders. Despite their menacing look, they rarely resort to violence, preferring to negotiate. But don't let their patience fool you - when it comes to combat, Sentinels are one of the most dangerous opponents. Leaded by general **Lewis Steelsinger**, army of Bastion Sentinels is power, you must count with. In combat they are using weapons, **charged by Flow**. 
 
 **The Citadel of the Sentinels** is a full-fledged medieval city. There you can find barracks, a large kitchen, weapons and food storage, training grounds, fighting arena, prison. Above all this, on a hill, rises the Castle, in which the nobles and **Lewis Steelsinger** himself live.
 
 # The Great Theatre
-**The Great Theater** is a haven for the aristocrats of the Heptagon. It is made in the style of the **Victorian era** with steampunk elements. On the stage of this magnificent theater, performances are played that praise the Inventor. Despite the rich decoration, the actors of the Great Theater **adhere to strict rules**, never breaking them. In addition, representatives of the Theater travel the world **as a traveling circus**. In their performances, they tell amazing stories about the Floating City. To protect themselves from threats, they use the services of the **Harlequins**, a mysterious order of assassins. The Theater is managed by **Count Sebastian Gross**, one of the closest followers of the Inventor. 
+
+**The Great Theatre** is a haven for the aristocrats of the Heptagon. It is made in the style of the **Victorian era** with steampunk elements. On the stage of this magnificent theater, performances are played that praise the Inventor. Despite the rich decoration, the actors of the Great Theater **adhere to strict rules**, never breaking them. In addition, representatives of the Theater travel the world **as a traveling circus**. In their performances, they tell amazing stories about the Floating City. To protect themselves from threats, they use the services of the **Harlequins**, a mysterious order of assassins. The Theater is managed by **Count Sebastian Gross**, one of the closest followers of the Inventor. 
 
 # Cultivators
+
 Cultivators are a group of scientists who have devoted their lives to the study of plants and their symbiosis with humans. They **abandoned all worldly pleasures**, completely surrendering to science. Cultivators believe that a human is defective, and with the help of **symbiosis with plants**, he will become a **superorganism**. Their platform is a huge laboratory complex full of greenhouses, experimentation rooms, and research facilities. The cultivators hardly ever leave the Heptagon, so they hired mercenaries to supply consumables. The leader of the Cultivators, **Heptavia Atropa** is a genius bioengineer who was the first to become a partial symbiont with a plant. This gave her superhuman powers.
 
 # Hunter Clans
+
 The nomadic **Clans of Hunters** were invited to the Heptagon for their outstanding skills in extracting rare resources, which the Inventor greatly needs in his research. They travel the world and extract the rarest resources and hunt the most dangerous creatures. They gladly joined the Inventor because he offered them his own weapon designs as a gift. By **enchanting them with reagents obtained from monsters**, this weapon has become truly unique. Their platform is made in the **style of nomads** - everywhere you can see tents, wagons, stalls for pack and mount animals. This is a tribute to traditions, and besides, it is practical - at any moment they can leave Heptagon and go on the Hunt. The clans are controlled by the **Council of Сhiefs** consisting of three members - **Viho, Vagosh, Isi**. They are blood relatives, which makes their bond indestructible.
 
 # Technomagical Alliance
+
 **Technomagical Alliance** is made up of mage scientists. They dedicated their lives to the practice and study of magic, as well as its application to science. The Inventor gladly provided them with a place for research in his city. In addition, he allowed them to use his technology to achieve their own goals, the main of which is to **breathe life into metal with magic**. Magicians use conquered spirits as assistants: **jinnes, ifrits, marids.** They study them, looking for ways to transfer the spirit into the metal. In addition, spirits protect scientists from any danger, being a powerful weapon. The Alliance is **led by Lord Nasr**, a powerful techno-mage who has **12 spirits** under his control.
 
 # Church of Heptagon
+
 **The Church of Heptagon** is dedicated to the Inventor and spreads his teachings around the world. It was founded by the **son of the Inventor** out of love for his father. Pilgrims of the Church travel the world telling about the glorious deeds of the Inventor, the floating city of Heptagon and teaching all people to read and write. Also, under the authority of the Church, there are many food warehouses that distribute food free of charge to the poor. In addition, the Church is also responsible for world culture. It is they who publish most of the books, approve some performances in the Theater, and also build the image of the Inventor as God.
 
 # Inventor
+
 A mysterious Inventor who **built the floating city of Heptagon**. He is a master of many sciences unknown to anyone living today. Thanks to his knowledge, he created a unique substance called **the Flow**. It is universal and is used as a basis in his inventions. **The Heptagon is literally full of the Flow** - it raised the city to the skies. Lesser amounts of Flow are used in weapons and blacksmithing, the construction of mechanisms, as well as the creation of medicines that can cure any ailment.  
 No one knows who the Inventor really is, but everyone is grateful to him for his inventions. **Many revere him as God**.
-
-
-В игре представлены 7 разных локаций в разной стилистике с уникальными несвязанными сюжетными линиями. Сеттинги:
-- Массивные средневековые цитадели, вулканические породы, могут быть элементы скандинавской стилистики в архитектуре. Локация должна создавать впечатление непоколебимости, извечности. Воины в темных доспехах патрулируют улицы. (это то, что необходимо реализовать для демо, в первую очередь)
-- Готика, средневековье, оккультизм, инквизиция
-- Biopunk, Гигер (художник), Scorn (игра), локация полна биологически разнообразных существ, структур, от обычных растений до фантастических пульсирующих биомасс
-- Steampunk с примесью магии
-- Кочевые племена индейцев
-- Викторианская эпоха, барокко, пышные балы и празднества
-- Чертоги эха из Divinity: Original Sin 2, эта локация - по сути одно большое строение с запутанными переходами внутри, таинственными символами на стенах. Крч все супертаинственно
-
-Все это находится внутри одного города. Игрок исследует все эти локации и город в целом. Игра - ARPG антиутопия.
