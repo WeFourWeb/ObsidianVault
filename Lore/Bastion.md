@@ -51,3 +51,16 @@ Over time, the ideals of the Bastion servants began to distort, and increasingly
 
 - **Objective:** Defeat the final boss, the corrupted leader of Bastion, to obtain the last fragment of the Inventor's memory. This elite adversary has fully embraced tyranny, and the battle occurs after navigating a series of challenges that test everything the player has learned. To reach the final boss, the player must use all the stronghold keys to unlock the central chamber, solving a grand puzzle that requires understanding the core virtues Bastion has forgotten.
 - **Gameplay:** Epic boss battle with complex mechanics, requiring mastery of combat, strategic use of the environment, and puzzle-solving skills.
+
+
+## Референсы
+
+![[Pasted image 20240220061210.png]]
+
+![[Pasted image 20240220061233.png]]
+
+![[Pasted image 20240220061250.png]]
+
+![[Pasted image 20240220061311.png]]
+
+![[Pasted image 20240220061543.png]]

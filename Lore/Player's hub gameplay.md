@@ -25,3 +25,7 @@ The hub's research and development area allows players to delve into the mysteri
 ### Dynamic World Interaction and Progression
 
 Players are not confined to a linear path but are instead encouraged to chart their own course through the game's rich and varied landscapes. From the serene yet deceptive tranquility of the Bastion to the foreboding depths of unknown territories, players can transition freely between locations, each choice and victory shaping their path to the Inventor's Tower. Along this journey, they encounter puzzles, enemies, and secrets that, once unraveled or overcome, unlock new difficulties and aspects of the world, pushing them ever closer to the ultimate confrontation.
+
+## References
+
+![[Pasted image 20240220061645.png]]
