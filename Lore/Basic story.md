@@ -1,7 +1,0 @@
----
-tags:
-  - lore
----
-# Concept
-
-In the fantasy world, there is a magnificent floating city full of wonders, built by **Mysterious Inventor**. The name of this city is **Heptagon**. The city is inhabited by followers of the Inventor, together they personify the **Great Heptagon**. The Inventor is worshiped by the Lowlanders as God, and his followers are revered as **Ascended**. The Ascended regularly make pilgrimages on floating platforms, traveling between villages to collect tribute and new servants. There are [**7 Ascended factions**](Factions.md). Each of them lives in their own part of the city. They are incarnate the graces by which the Inventor built the Heptagon - **Patience**, **Restraint**, **Chastity**, **Bounty**, **Zeal**, and **Love**. The Inventor himself incarnate **Modesty**, because he did not allow his genius to spoil his soul.
